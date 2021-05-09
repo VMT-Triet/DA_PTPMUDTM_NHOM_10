@@ -1,0 +1,14 @@
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\bin\Debug\DoAn_QuanLyCuaHangLaptop.exe.config
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\bin\Debug\DoAn_QuanLyCuaHangLaptop.exe
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\bin\Debug\DoAn_QuanLyCuaHangLaptop.pdb
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\bin\Debug\FontAwesome.Sharp.dll
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.csprojResolveAssemblyReference.cache
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.Properties.Resources.resources
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.csproj.GenerateResource.Cache
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.exe
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.pdb
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.MainForm.resources
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.SanPhamForm.resources
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.ChiTietSP.resources
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.HoaDonForm.resources
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.Form1.resources
