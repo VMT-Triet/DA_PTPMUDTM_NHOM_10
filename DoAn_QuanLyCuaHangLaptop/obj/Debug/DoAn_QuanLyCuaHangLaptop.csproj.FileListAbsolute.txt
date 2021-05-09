@@ -12,3 +12,16 @@ C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\D
 C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.ChiTietSP.resources
 C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.HoaDonForm.resources
 C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.Form1.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\bin\Debug\DoAn_QuanLyCuaHangLaptop.exe.config
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.exe
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.pdb
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\bin\Debug\DoAn_QuanLyCuaHangLaptop.exe
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\bin\Debug\DoAn_QuanLyCuaHangLaptop.pdb
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\bin\Debug\FontAwesome.Sharp.dll
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.csprojResolveAssemblyReference.cache
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.ChiTietSP.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.HoaDonForm.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.MainForm.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.Properties.Resources.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.SanPhamForm.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.csproj.GenerateResource.Cache
