@@ -100,18 +100,36 @@ namespace DoAn_QuanLyCuaHangLaptop
         private void nhaSanXuatBtn_Click(object sender, EventArgs e)
         {
             activeButton(sender, myColors.color3);
+            openForm(new NhaSanXuatForm());
         }
         
         private void nhanVienBtn_Click(object sender, EventArgs e)
         {
             activeButton(sender, myColors.color4);
+            openForm(new NhanVienForm());
             
         }
 
         private void quanLySanPhamBtn_Click(object sender, EventArgs e)
         {
             activeButton(sender, myColors.color5);
+            openForm(new QLSanPhamForm());
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if(MessageBox.Show("Bạn muốn thoát!","Xác nhận thoát?",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.No)
+            {
+                e.Cancel = true;              
+            }
             
+            //DangNhapForm dangnhap = new DangNhapForm();
+            //dangnhap.Show();
         }
     }
 }

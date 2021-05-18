@@ -10,22 +10,22 @@ using System.Windows.Forms;
 
 namespace DoAn_QuanLyCuaHangLaptop
 {
-    public partial class HoaDonForm : Form
+    public partial class DangKyForm : Form
     {
-        public HoaDonForm()
+        public DangKyForm()
         {
             InitializeComponent();
         }
 
-        private void themHDBtn_Click(object sender, EventArgs e)
+        private void btnDangKy_Click(object sender, EventArgs e)
         {
-            SanPhamForm spfrm = new SanPhamForm(false);
-            spfrm.ShowDialog();
+            MessageBox.Show("Đăng ký thành công");
+            this.Close();
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void btnHuy_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
     }
 }

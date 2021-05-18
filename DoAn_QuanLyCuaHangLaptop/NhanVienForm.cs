@@ -10,20 +10,14 @@ using System.Windows.Forms;
 
 namespace DoAn_QuanLyCuaHangLaptop
 {
-    public partial class HoaDonForm : Form
+    public partial class NhanVienForm : Form
     {
-        public HoaDonForm()
+        public NhanVienForm()
         {
             InitializeComponent();
         }
 
-        private void themHDBtn_Click(object sender, EventArgs e)
-        {
-            SanPhamForm spfrm = new SanPhamForm(false);
-            spfrm.ShowDialog();
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
 
         }

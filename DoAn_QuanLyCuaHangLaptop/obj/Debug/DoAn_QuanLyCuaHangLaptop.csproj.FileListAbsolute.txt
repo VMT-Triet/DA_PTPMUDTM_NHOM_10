@@ -25,3 +25,9 @@ E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaH
 E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.Properties.Resources.resources
 E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.SanPhamForm.resources
 E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.csproj.GenerateResource.Cache
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.NhanVienForm.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.NhaSanXuatForm.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.QLSanPhamForm.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\bin\Debug\XanderUI.dll
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.DangKyForm.resources
+E:\Github\DA_PTPMUDTM_NHOM_10\DoAn_QuanLyCuaHangLaptop\obj\Debug\DoAn_QuanLyCuaHangLaptop.DangNhapForm.resources
